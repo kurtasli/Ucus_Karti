@@ -7,7 +7,7 @@
 
 <div style="display: flex; align-items: center;">
   <img style="margin-right: 10px;" width="400" height="350" src="https://raw.githubusercontent.com/kurtasli/Ucus_Karti/refs/heads/main/UcusKarti/Images/ucusv21.png">
-  <img width="330" height="350" src="https://raw.githubusercontent.com/kurtasli/Ucus_Karti/refs/heads/main/UcusKarti/Images/ucusv22.png">
+  <img width="360" height="350" src="https://raw.githubusercontent.com/kurtasli/Ucus_Karti/refs/heads/main/UcusKarti/Images/ucusv22.png">
 </div>
 
 
